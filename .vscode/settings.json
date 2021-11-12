@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cpu.h": "c",
+        "sifive_cpu.h": "c",
+        "error.h": "c",
+        "boards.h": "c",
+        "serial.h": "c"
+    }
+}
